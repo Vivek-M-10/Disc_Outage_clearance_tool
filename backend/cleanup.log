@@ -1,0 +1,41 @@
+2025-07-27 19:39:30,755 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-27 19:39:30,755 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:40:47,548 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-27 19:40:47,548 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:47:43,556 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-27 19:47:43,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:50:23,123 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-27 19:50:23,123 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:50:38,788 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-27 19:50:38,788 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:53:39,943 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-27 19:53:39,943 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:53:46,546 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-27 19:53:46,546 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:53:58,326 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-27 19:53:58,326 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:55:18,459 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-07-27 19:55:18,459 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-27 19:55:43,385 - INFO - 127.0.0.1 - - [27/Jul/2025 19:55:43] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-27 19:55:44,238 - INFO - 127.0.0.1 - - [27/Jul/2025 19:55:44] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-27 19:55:47,951 - INFO - Deleted: /Users/keviv/Desktop/Disc_outage_clearance/logs/app_log/old_file_1.log
+2025-07-27 19:55:47,951 - INFO - Deleted: /Users/keviv/Desktop/Disc_outage_clearance/logs/app_log/old_file_2.txt
+2025-07-27 19:55:47,952 - INFO - Deleted: /Users/keviv/Desktop/Disc_outage_clearance/logs/temp_logs/old_file_1.log
+2025-07-27 19:55:47,952 - INFO - Deleted: /Users/keviv/Desktop/Disc_outage_clearance/logs/temp_logs/old_file_2.txt
+2025-07-27 19:55:47,952 - INFO - Deleted: /Users/keviv/Desktop/Disc_outage_clearance/logs/transaction_logs/old_file_1.log
+2025-07-27 19:55:47,953 - INFO - Deleted: /Users/keviv/Desktop/Disc_outage_clearance/logs/transaction_logs/old_file_2.txt
+2025-07-27 19:55:47,954 - INFO - 127.0.0.1 - - [27/Jul/2025 19:55:47] "GET /clean HTTP/1.1" 200 -
+2025-07-27 19:55:48,212 - INFO - 127.0.0.1 - - [27/Jul/2025 19:55:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-27 19:58:06,261 - INFO - Cleanup complete. No files deleted.
+2025-07-27 19:58:06,262 - INFO - 127.0.0.1 - - [27/Jul/2025 19:58:06] "GET /clean HTTP/1.1" 200 -
+2025-07-27 19:58:10,772 - INFO - Cleanup complete. No files deleted.
+2025-07-27 19:58:10,773 - INFO - 127.0.0.1 - - [27/Jul/2025 19:58:10] "GET /clean HTTP/1.1" 200 -
